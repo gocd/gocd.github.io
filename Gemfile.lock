@@ -24,7 +24,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.8)
     contracts (0.13.0)
-    dotenv (2.7.5)
+    dotenv (2.7.6)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -207,7 +207,6 @@ PLATFORMS
   x86_64-darwin-15
   x86_64-darwin-17
   x86_64-darwin-18
-
 
 DEPENDENCIES
   bootstrap-sass
