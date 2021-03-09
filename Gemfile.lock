@@ -36,7 +36,7 @@ GEM
     execjs (2.7.0)
     fast_blank (1.0.0)
     fastimage (2.1.7)
-    ffi (1.13.1)
+    ffi (1.15.0)
     fog-aws (3.5.2)
       fog-core (~> 2.1)
       fog-json (~> 1.1)
@@ -207,7 +207,6 @@ PLATFORMS
   x86_64-darwin-15
   x86_64-darwin-17
   x86_64-darwin-18
-
 
 DEPENDENCIES
   bootstrap-sass
